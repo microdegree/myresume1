@@ -1,0 +1,30 @@
+﻿.custom-header {
+    color: white;
+    padding: 6px;
+    font-size: 21px;
+    margin-bottom: 10px;
+    background: #d795008f;
+}
+.s1{
+    height:200px;
+    width:200px;
+    margin-top:20px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.card {
+    background-color: rgba(245, 235, 204, 0.432);
+}
